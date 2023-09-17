@@ -1,0 +1,14 @@
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_04. Fishing Boat\obj\Debug\net6.0\ex2_04. Fishing Boat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_04. Fishing Boat\obj\Debug\net6.0\ex2_04. Fishing Boat.AssemblyInfoInputs.cache
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_04. Fishing Boat\obj\Debug\net6.0\ex2_04. Fishing Boat.AssemblyInfo.cs
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_04. Fishing Boat\obj\Debug\net6.0\ex2_04. Fishing Boat.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_04. Fishing Boat\bin\Debug\net6.0\ex2_04. Fishing Boat.exe
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_04. Fishing Boat\bin\Debug\net6.0\ex2_04. Fishing Boat.deps.json
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_04. Fishing Boat\bin\Debug\net6.0\ex2_04. Fishing Boat.runtimeconfig.json
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_04. Fishing Boat\bin\Debug\net6.0\ex2_04. Fishing Boat.dll
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_04. Fishing Boat\bin\Debug\net6.0\ex2_04. Fishing Boat.pdb
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_04. Fishing Boat\obj\Debug\net6.0\ex2_04. Fishing Boat.dll
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_04. Fishing Boat\obj\Debug\net6.0\refint\ex2_04. Fishing Boat.dll
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_04. Fishing Boat\obj\Debug\net6.0\ex2_04. Fishing Boat.pdb
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_04. Fishing Boat\obj\Debug\net6.0\ex2_04. Fishing Boat.genruntimeconfig.cache
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_04. Fishing Boat\obj\Debug\net6.0\ref\ex2_04. Fishing Boat.dll
