@@ -1,0 +1,14 @@
+C:\Users\Tsvetelin\source\repos\exercise1\ex_03. New Home\bin\Debug\net6.0\ex2_03. New Home.exe
+C:\Users\Tsvetelin\source\repos\exercise1\ex_03. New Home\bin\Debug\net6.0\ex2_03. New Home.deps.json
+C:\Users\Tsvetelin\source\repos\exercise1\ex_03. New Home\bin\Debug\net6.0\ex2_03. New Home.runtimeconfig.json
+C:\Users\Tsvetelin\source\repos\exercise1\ex_03. New Home\bin\Debug\net6.0\ex2_03. New Home.dll
+C:\Users\Tsvetelin\source\repos\exercise1\ex_03. New Home\bin\Debug\net6.0\ex2_03. New Home.pdb
+C:\Users\Tsvetelin\source\repos\exercise1\ex_03. New Home\obj\Debug\net6.0\ex2_03. New Home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tsvetelin\source\repos\exercise1\ex_03. New Home\obj\Debug\net6.0\ex2_03. New Home.AssemblyInfoInputs.cache
+C:\Users\Tsvetelin\source\repos\exercise1\ex_03. New Home\obj\Debug\net6.0\ex2_03. New Home.AssemblyInfo.cs
+C:\Users\Tsvetelin\source\repos\exercise1\ex_03. New Home\obj\Debug\net6.0\ex2_03. New Home.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetelin\source\repos\exercise1\ex_03. New Home\obj\Debug\net6.0\ex2_03. New Home.dll
+C:\Users\Tsvetelin\source\repos\exercise1\ex_03. New Home\obj\Debug\net6.0\refint\ex2_03. New Home.dll
+C:\Users\Tsvetelin\source\repos\exercise1\ex_03. New Home\obj\Debug\net6.0\ex2_03. New Home.pdb
+C:\Users\Tsvetelin\source\repos\exercise1\ex_03. New Home\obj\Debug\net6.0\ex2_03. New Home.genruntimeconfig.cache
+C:\Users\Tsvetelin\source\repos\exercise1\ex_03. New Home\obj\Debug\net6.0\ref\ex2_03. New Home.dll

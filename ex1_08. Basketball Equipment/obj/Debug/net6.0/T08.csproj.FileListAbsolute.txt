@@ -1,0 +1,14 @@
+C:\Users\Tsvetelin\source\repos\T08\bin\Debug\net6.0\T08.exe
+C:\Users\Tsvetelin\source\repos\T08\bin\Debug\net6.0\T08.deps.json
+C:\Users\Tsvetelin\source\repos\T08\bin\Debug\net6.0\T08.runtimeconfig.json
+C:\Users\Tsvetelin\source\repos\T08\bin\Debug\net6.0\T08.dll
+C:\Users\Tsvetelin\source\repos\T08\bin\Debug\net6.0\T08.pdb
+C:\Users\Tsvetelin\source\repos\T08\obj\Debug\net6.0\T08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tsvetelin\source\repos\T08\obj\Debug\net6.0\T08.AssemblyInfoInputs.cache
+C:\Users\Tsvetelin\source\repos\T08\obj\Debug\net6.0\T08.AssemblyInfo.cs
+C:\Users\Tsvetelin\source\repos\T08\obj\Debug\net6.0\T08.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetelin\source\repos\T08\obj\Debug\net6.0\T08.dll
+C:\Users\Tsvetelin\source\repos\T08\obj\Debug\net6.0\refint\T08.dll
+C:\Users\Tsvetelin\source\repos\T08\obj\Debug\net6.0\T08.pdb
+C:\Users\Tsvetelin\source\repos\T08\obj\Debug\net6.0\T08.genruntimeconfig.cache
+C:\Users\Tsvetelin\source\repos\T08\obj\Debug\net6.0\ref\T08.dll
