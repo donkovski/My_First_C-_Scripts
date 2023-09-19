@@ -1,0 +1,14 @@
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_06. Operations\bin\Debug\net6.0\ex2_06. Operations.exe
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_06. Operations\bin\Debug\net6.0\ex2_06. Operations.deps.json
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_06. Operations\bin\Debug\net6.0\ex2_06. Operations.runtimeconfig.json
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_06. Operations\bin\Debug\net6.0\ex2_06. Operations.dll
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_06. Operations\bin\Debug\net6.0\ex2_06. Operations.pdb
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_06. Operations\obj\Debug\net6.0\ex2_06. Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_06. Operations\obj\Debug\net6.0\ex2_06. Operations.AssemblyInfoInputs.cache
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_06. Operations\obj\Debug\net6.0\ex2_06. Operations.AssemblyInfo.cs
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_06. Operations\obj\Debug\net6.0\ex2_06. Operations.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_06. Operations\obj\Debug\net6.0\ex2_06. Operations.dll
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_06. Operations\obj\Debug\net6.0\refint\ex2_06. Operations.dll
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_06. Operations\obj\Debug\net6.0\ex2_06. Operations.pdb
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_06. Operations\obj\Debug\net6.0\ex2_06. Operations.genruntimeconfig.cache
+C:\Users\Tsvetelin\source\repos\exercise1\ex2_06. Operations\obj\Debug\net6.0\ref\ex2_06. Operations.dll
