@@ -1,0 +1,14 @@
+C:\Users\Tsvetelin\source\repos\Exersice_Number_One\Exersice_Number_One\bin\Debug\net6.0\Exersice_Number_One.exe
+C:\Users\Tsvetelin\source\repos\Exersice_Number_One\Exersice_Number_One\bin\Debug\net6.0\Exersice_Number_One.deps.json
+C:\Users\Tsvetelin\source\repos\Exersice_Number_One\Exersice_Number_One\bin\Debug\net6.0\Exersice_Number_One.runtimeconfig.json
+C:\Users\Tsvetelin\source\repos\Exersice_Number_One\Exersice_Number_One\bin\Debug\net6.0\Exersice_Number_One.dll
+C:\Users\Tsvetelin\source\repos\Exersice_Number_One\Exersice_Number_One\bin\Debug\net6.0\Exersice_Number_One.pdb
+C:\Users\Tsvetelin\source\repos\Exersice_Number_One\Exersice_Number_One\obj\Debug\net6.0\Exersice_Number_One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tsvetelin\source\repos\Exersice_Number_One\Exersice_Number_One\obj\Debug\net6.0\Exersice_Number_One.AssemblyInfoInputs.cache
+C:\Users\Tsvetelin\source\repos\Exersice_Number_One\Exersice_Number_One\obj\Debug\net6.0\Exersice_Number_One.AssemblyInfo.cs
+C:\Users\Tsvetelin\source\repos\Exersice_Number_One\Exersice_Number_One\obj\Debug\net6.0\Exersice_Number_One.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetelin\source\repos\Exersice_Number_One\Exersice_Number_One\obj\Debug\net6.0\Exersice_Number_One.dll
+C:\Users\Tsvetelin\source\repos\Exersice_Number_One\Exersice_Number_One\obj\Debug\net6.0\refint\Exersice_Number_One.dll
+C:\Users\Tsvetelin\source\repos\Exersice_Number_One\Exersice_Number_One\obj\Debug\net6.0\Exersice_Number_One.pdb
+C:\Users\Tsvetelin\source\repos\Exersice_Number_One\Exersice_Number_One\obj\Debug\net6.0\Exersice_Number_One.genruntimeconfig.cache
+C:\Users\Tsvetelin\source\repos\Exersice_Number_One\Exersice_Number_One\obj\Debug\net6.0\ref\Exersice_Number_One.dll

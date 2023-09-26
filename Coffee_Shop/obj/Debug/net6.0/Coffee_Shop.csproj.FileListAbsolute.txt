@@ -1,0 +1,14 @@
+C:\Users\Tsvetelin\source\repos\Coffee_Shop\obj\Debug\net6.0\Coffee_Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tsvetelin\source\repos\Coffee_Shop\obj\Debug\net6.0\Coffee_Shop.AssemblyInfoInputs.cache
+C:\Users\Tsvetelin\source\repos\Coffee_Shop\obj\Debug\net6.0\Coffee_Shop.AssemblyInfo.cs
+C:\Users\Tsvetelin\source\repos\Coffee_Shop\obj\Debug\net6.0\Coffee_Shop.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetelin\source\repos\Coffee_Shop\bin\Debug\net6.0\Coffee_Shop.exe
+C:\Users\Tsvetelin\source\repos\Coffee_Shop\bin\Debug\net6.0\Coffee_Shop.deps.json
+C:\Users\Tsvetelin\source\repos\Coffee_Shop\bin\Debug\net6.0\Coffee_Shop.runtimeconfig.json
+C:\Users\Tsvetelin\source\repos\Coffee_Shop\bin\Debug\net6.0\Coffee_Shop.dll
+C:\Users\Tsvetelin\source\repos\Coffee_Shop\bin\Debug\net6.0\Coffee_Shop.pdb
+C:\Users\Tsvetelin\source\repos\Coffee_Shop\obj\Debug\net6.0\Coffee_Shop.dll
+C:\Users\Tsvetelin\source\repos\Coffee_Shop\obj\Debug\net6.0\refint\Coffee_Shop.dll
+C:\Users\Tsvetelin\source\repos\Coffee_Shop\obj\Debug\net6.0\Coffee_Shop.pdb
+C:\Users\Tsvetelin\source\repos\Coffee_Shop\obj\Debug\net6.0\Coffee_Shop.genruntimeconfig.cache
+C:\Users\Tsvetelin\source\repos\Coffee_Shop\obj\Debug\net6.0\ref\Coffee_Shop.dll

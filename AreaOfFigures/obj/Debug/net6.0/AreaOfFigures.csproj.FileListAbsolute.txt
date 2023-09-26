@@ -1,0 +1,14 @@
+C:\Users\Tsvetelin\source\repos\AreaOfFigures\bin\Debug\net6.0\AreaOfFigures.exe
+C:\Users\Tsvetelin\source\repos\AreaOfFigures\bin\Debug\net6.0\AreaOfFigures.deps.json
+C:\Users\Tsvetelin\source\repos\AreaOfFigures\bin\Debug\net6.0\AreaOfFigures.runtimeconfig.json
+C:\Users\Tsvetelin\source\repos\AreaOfFigures\bin\Debug\net6.0\AreaOfFigures.dll
+C:\Users\Tsvetelin\source\repos\AreaOfFigures\bin\Debug\net6.0\AreaOfFigures.pdb
+C:\Users\Tsvetelin\source\repos\AreaOfFigures\obj\Debug\net6.0\AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tsvetelin\source\repos\AreaOfFigures\obj\Debug\net6.0\AreaOfFigures.AssemblyInfoInputs.cache
+C:\Users\Tsvetelin\source\repos\AreaOfFigures\obj\Debug\net6.0\AreaOfFigures.AssemblyInfo.cs
+C:\Users\Tsvetelin\source\repos\AreaOfFigures\obj\Debug\net6.0\AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\Tsvetelin\source\repos\AreaOfFigures\obj\Debug\net6.0\AreaOfFigures.dll
+C:\Users\Tsvetelin\source\repos\AreaOfFigures\obj\Debug\net6.0\refint\AreaOfFigures.dll
+C:\Users\Tsvetelin\source\repos\AreaOfFigures\obj\Debug\net6.0\AreaOfFigures.pdb
+C:\Users\Tsvetelin\source\repos\AreaOfFigures\obj\Debug\net6.0\AreaOfFigures.genruntimeconfig.cache
+C:\Users\Tsvetelin\source\repos\AreaOfFigures\obj\Debug\net6.0\ref\AreaOfFigures.dll
